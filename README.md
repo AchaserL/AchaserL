@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AchaserL
 - 👀 I’m interested in Music, Esports and Code.
-- 🌱 I’m currently learning Java and Big Data.
+- 🌱 I’m currently learning Machine Learning and Knowledge Graph.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
